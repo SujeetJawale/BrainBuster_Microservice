@@ -84,14 +84,15 @@ public class QuestionServiceImpl implements IQuestionService{
 
         for(Question question: questions) {
             QuestionWrapper wrapper = new QuestionWrapper();
+            wrapper.setId(question.getId());
             wrapper.setQuestion(question.getQuestion());
             wrapper.setOption1(question.getOption1());
             wrapper.setOption2(question.getOption2());
             wrapper.setOption3(question.getOption3());
             wrapper.setOption4(question.getOption4());
-
+            wrappers.add(wrapper);
         }
-        return null;
+        return wrappers;
     }
 
     @Override
