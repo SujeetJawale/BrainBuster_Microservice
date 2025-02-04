@@ -115,4 +115,4 @@ To set up and run the Brain-Buster Quiz Application locally, follow these steps:
 - Access Zipkin at http://localhost:9411 to monitor request flows and debug issues.
 ---
 ## API Documentation  
-For a comprehensive list of all APIs, including endpoints, request/response formats, and examples, check out the [API Documentation PDF](https://drive.google.com/your-link-here). 
+For a comprehensive list of all APIs, including endpoints, request/response formats, and examples, check out the [API Documentation PDF]([https://drive.google.com/your-link-here](https://drive.google.com/file/d/1jvNd_d-StQw-GHdqghCCEVFyQNRq-YAd/view?usp=drive_link)). 
