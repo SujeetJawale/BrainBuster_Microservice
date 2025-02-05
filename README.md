@@ -1,3 +1,5 @@
+<img src="https://github.com/user-attachments/assets/5afe3f13-b435-435f-a680-532198437439" alt="Image" height="300" width="100%"/>
+
 # Brain-Buster: Interactive Quiz Application  
 **REST APIs, Microservices, Redis, Zipkin, MySQL**  
 **July 2024 - August 2024**
